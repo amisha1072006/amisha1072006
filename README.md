@@ -3,9 +3,8 @@
 🌱 *Open Source Contributor & Web Enthusiast*  
 
  *Skills*  
-- HTML, CSS, JavaScript  
-- React (Beginner)  
-- Basic DSA & Problem Solving  
+- HTML, CSS, JavaScript, Bootstrap, React
+- DSA & Problem Solving  
 
  *Currently*  
 - Contributing to *Open Food Facts*  
