@@ -19,8 +19,5 @@
 
  *Goals*  
 - Grow as a consistent open-source contributor  
-- Prepare for programs like *GSoC, Outreachy, GSSoC*  
+- Prepare for programs like *GSoC, Outreachy
 - Build impactful, user-friendly web projects  
-
- *Connect with me*  
-- LinkedIn:https://www.linkedin.com/in/amisha-pandey-38193630b/
