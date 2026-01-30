@@ -1,16 +1,26 @@
-## Hi there 👋
+##  Hi, I'm Amisha Pandey  
 
-<!--
-**amisha1072006/amisha1072006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 *Open Source Contributor & Web Enthusiast*  
 
-Here are some ideas to get you started:
+ *Skills*  
+- HTML, CSS, JavaScript  
+- React (Beginner)  
+- Basic DSA & Problem Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ *Currently*  
+- Contributing to *Open Food Facts*  
+- Learning frontend best practices and documentation  
+
+ *Interests*  
+- Documentation & Developer Experience  
+- Frontend (UI/UX)  
+- Web Accessibility  
+- DSA & Logical Problem Solving  
+
+ *Goals*  
+- Grow as a consistent open-source contributor  
+- Prepare for programs like *GSoC, Outreachy, GSSoC*  
+- Build impactful, user-friendly web projects  
+
+ *Connect with me*  
+- LinkedIn:https://www.linkedin.com/in/amisha-pandey-38193630b/
