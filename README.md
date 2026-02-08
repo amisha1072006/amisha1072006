@@ -4,6 +4,7 @@
 
  *Skills*  
 - HTML, CSS, JavaScript, Bootstrap, React
+- Spring Boot,Hibernate,Spring JPA
 - DSA & Problem Solving  
 
  *Currently*  
