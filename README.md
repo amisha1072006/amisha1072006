@@ -4,7 +4,7 @@
 
  *Skills*  
 - Frontend: HTML, CSS, JavaScript, Bootstrap, React
-- Backend(Learning & Practice): Java, Spring Boot, Hibernate, Spring JPA
+- Backend (Learning & Practice) : Java, Spring Boot, Hibernate, Spring JPA
 - DSA & Problem Solving  
 
  *Currently*  
