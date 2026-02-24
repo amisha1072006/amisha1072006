@@ -1,25 +1,59 @@
-##  Hi, I'm Amisha Pandey  
+# Hi, I'm Amisha Pandey   
 
-🌱 *Open Source Contributor (Frontend) | Web Enthusiast | UI/UX & Accessibility Focused*  
+🎓 MSc Computer Science Student  
+💻 Full Stack Developer  
+🌱 Open Source Contributor (Frontend)  
 
- *Skills*  
-- Frontend: HTML, CSS, JavaScript, Bootstrap, React
-- Backend (Learning & Practice) : Java, Spring Boot, Hibernate, Spring JPA
-- DSA & Problem Solving  
+---
 
- *Currently*  
-- Contributing frontend fixes and documentation improvements to Open Food Facts
-- Exploring Public Lab codebase and working on beginner-friendly frontend issues
-- Learning frontend best practices, accessibility and open-source collaboration workflows  
+##  About Me  
 
- *Interests*   
-- Frontend Development (UI/UX)  
-- Web Accessibility
-- Documentation & Developer Experience 
-- DSA & Logical Problem Solving
-- Open Source Communities
+I’m a Computer Science postgraduate student passionate about building clean, user-friendly and accessible web applications.  
 
- *Goals*  
-- Grow as a consistent open-source contributor  
-- Prepare for programs like *GSoC, Outreachy
-- Build impactful, user-friendly web projects  
+Currently contributing frontend fixes and documentation improvements to Open Food Facts Explorer while continuously strengthening my full stack development skills.
+
+---
+
+## Technical Skills  
+
+### Frontend  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Bootstrap  
+- React  
+- UI/UX Fundamentals  
+- Web Accessibility  
+
+### Backend  
+- Java  
+- Spring Boot  
+- Hibernate  
+- Spring JPA  
+- REST API Development  
+
+### Core Concepts  
+- Data Structures & Algorithms  
+- Problem Solving  
+- Object-Oriented Programming  
+- Documentation & Developer Experience  
+
+---
+
+## Currently  
+
+- Contributing to Open Food Facts Explorer (SvelteKit + TypeScript based project)  
+- Learning TypeScript & modern frontend tooling  
+- Exploring accessibility best practices in web development  
+
+---
+
+## Goals  
+
+- Grow as a consistent open source contributor  
+- Build impactful, scalable full stack applications  
+- Strengthen system design & software architecture skills  
+
+---
+
+ University of Allahabad, India
