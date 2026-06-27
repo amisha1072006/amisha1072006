@@ -10,7 +10,7 @@
 
 I’m a Computer Science postgraduate student passionate about building clean, user-friendly and accessible web applications.  
 
-Currently contributing frontend fixes and documentation improvements to Open Food Facts Explorer while continuously strengthening my full stack development skills.
+Currently contributing frontend fixes and documentation improvements to Open Food Facts while continuously strengthening my full stack development skills.
 
 ---
 
@@ -22,8 +22,7 @@ Currently contributing frontend fixes and documentation improvements to Open Foo
 - JavaScript (ES6+)  
 - Bootstrap  
 - React  
-- UI/UX Fundamentals  
-- Web Accessibility  
+- UI/UX Fundamentals
 
 ### Backend  
 - Java  
@@ -41,18 +40,13 @@ Currently contributing frontend fixes and documentation improvements to Open Foo
 ---
 
 ## Currently  
-
-- Contributing to Open Food Facts Explorer (SvelteKit + TypeScript based project)  
-- Learning TypeScript & modern frontend tooling  
 - Exploring accessibility best practices in web development  
-
----
 
 ## Goals  
 
-- Grow as a consistent open source contributor  
+- Grow as a consistent open source contributor 
 - Build impactful, scalable full stack applications  
-- Strengthen system design & software architecture skills  
+- Strengthen system design & software architecture skill  
 
 ---
 
