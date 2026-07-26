@@ -1,53 +1,21 @@
-# Hi, I'm Amisha Pandey   
+# Hi, I'm Amisha Pandey 👋
 
-🎓 MSc Computer Science Student  
-💻 Full Stack Developer  
-🌱 Open Source Contributor (Frontend)  
+🎓 *M.Sc Computer Science Student* | 💻 *Full Stack Developer*
 
----
-
-##  About Me  
-
-I’m a Computer Science postgraduate student passionate about building clean, user-friendly and accessible web applications.  
-
-Currently contributing frontend fixes and documentation improvements to Open Food Facts while continuously strengthening my full stack development skills.
+I am a Computer Science postgraduate student passionate about building scalable, user-friendly web applications and RESTful APIs using modern web technologies.
 
 ---
+### 🛠️ Technical Skills
 
-## Technical Skills  
-
-### Frontend  
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- Bootstrap  
-- React  
-- UI/UX Fundamentals
-
-### Backend  
-- Java  
-- Spring Boot  
-- Hibernate  
-- Spring JPA  
-- REST API Development  
-
-### Core Concepts  
-- Data Structures & Algorithms  
-- Problem Solving  
-- Object-Oriented Programming  
-- Documentation & Developer Experience  
+- *Programming Languages:* Java (Core), JavaScript (ES6+)
+- *Frontend Technologies:* React.js, HTML5, CSS3, Bootstrap
+- *Backend Technologies:* Node.js, Express.js, RESTful APIs
+- *Databases:* MongoDB, MySQL
+- *Tools & Testing:* Git, GitHub, VS Code, Hoppscotch, Google Workspace
+- *Core CS Concepts:* Data Structures & Algorithms (DSA), OOPs, DBMS, Operating Systems, Computer Networks, Agile Methodology
 
 ---
+### 💼 Experience
 
-## Currently  
-- Exploring accessibility best practices in web development  
-
-## Goals  
-
-- Grow as a consistent open source contributor 
-- Build impactful, scalable full stack applications  
-- Strengthen system design & software architecture skill  
-
----
-
- University of Allahabad, India
+- *Software Development Intern* @ Infosys Springboard (Sep 2025 - Nov 2025)
+  - Served as Frontend Team Lead for 'EventMate' AI-based event planning web application.
